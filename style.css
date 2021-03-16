@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,900');
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display:inline-block;
+    *display: inline;     /* for IE7*/
+    zoom:1;              /* for IE7*/
+    vertical-align:middle;
+    /*margin-left:20px;*/
+     margin-left: -80px !important;
+
+}
+
+label {
+	font-family: Times New Roman;
+	font-weight: bold;
+	font-size: 15px;
+    display:inline-block;
+    *display: inline;     /* for IE7*/
+    zoom:1;              /* for IE7*/
+    float: left;
+    padding-top: 5px;
+     margin-left:250px;
+    width: 140px;
+        margin-right: -350px !important;
+}
+textarea{
+
+	  margin-left: -70px !important;
+}
+h1{
+	 margin-left: -350px !important;
+}
+h3{
+	 margin-left: -350px !important;
+}
