@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,900');
+
+.display_meta{
+	font-family:Montserrat;
+	color: black; 
+	text-align: left;
+	font-weight: 20px;
+}
+.title_val{
+	font-family:Montserrat;
+	color: black; 
+	text-align: left;
+	font-weight: 20px;
+}
+<img src = "C:/xampp/htdocs/wordpress_task6/wp-content/plugins/job_plugin/assets/phpdvlper.jpg"/>;
